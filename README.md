@@ -1,6 +1,6 @@
 # ralf1q — personal website
 
-A simple, clean one-page site for **ralf1q**: social media marketing specialist and founder of
+A clean, dark one-page site with subtle animations for **ralf1q**: social media marketing specialist and founder of
 **FrameDuoVisuals** ([Instagram](https://www.instagram.com/frameduovisuals/)), a social media marketing agency launching soon.
 
 Plain HTML and CSS, with no build step. Everything is in `index.html`.
